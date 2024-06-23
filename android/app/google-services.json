@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "428802713985",
+    "project_id": "zego-chat-room",
+    "storage_bucket": "zego-chat-room.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:428802713985:android:13ced358c87e4d73ace080",
+        "android_client_info": {
+          "package_name": "com.example.zego_chat_room"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8Qv5rhjngyBNTcMlDIHmKRkjHKAXnE4E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
